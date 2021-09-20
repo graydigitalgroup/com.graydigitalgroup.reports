@@ -2,6 +2,8 @@
 
 Adds features to the CiviCRM Reports framework.
 
+Extends the core Member Detail report to change the State column to an abbreviation instead of full name. If [Report Plus](https://lab.civicrm.org/extensions/reportplus) extension is installed, it will also add a report that extends the Member Detail Plus report and override the State columns as well.
+
 The extension is licensed under [AGPL-3.0](LICENSE.txt).
 
 ## Requirements
